@@ -1,6 +1,6 @@
 # Hi, I'm John
 
-I'm a backend engineer and co-founder of [32Tech](https://www.32tech.co).
+I'm a backend engineer, indie hacker, and co-founder of [32Tech](https://www.32tech.co).
 
 I've spent years working in startups. My favorite part has always been building products—from the first idea to something I use every day.
 
